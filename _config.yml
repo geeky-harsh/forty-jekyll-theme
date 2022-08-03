@@ -2,7 +2,7 @@
 title: Harsh
 subtitle: Nature-2-Nature
 email: harshvinay752@gmail.com
-description: Technology - Engineering - Human
+description: Technology - Engineering - Humanity
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
@@ -10,8 +10,8 @@ street_address: Indian Institute of Space Science and Technology
 city: Thiruvananthapuram
 state: KL
 zip_code: 695547
-country: Indian
-phone: (716) 555-5555
+country: India
+# phone: 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
