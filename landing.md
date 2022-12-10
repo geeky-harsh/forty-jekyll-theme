@@ -1,4 +1,3 @@
-<!-- landing.md -->
 ---
 title: Landing
 layout: landing
